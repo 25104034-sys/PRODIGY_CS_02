@@ -62,11 +62,19 @@ Run the program
 Select an image
 
 Enter a key
+
 Encrypt or decrypt the image
+
 Save the result
+
 Example
+
 Original Pixel: (100, 150, 200)
+
 Key: 66
+
 Encrypted Pixel: (38, 212, 138)
+
 Using key 66 again:
+
 Decrypted Pixel: (100, 150, 200)
